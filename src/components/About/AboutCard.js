@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Rishabh Pathak </span>
             from <span className="purple"> Indore, India.</span>
             <br />
-            I am currently employed as a Full stack developer at Johnson.
+            I am currently employed as a Full stack developer and also work as a Freelancer and manage projects individually.
             <br />
             I have completed Bachelor of technlogy from Shri Vaishnav Vidyapeeth Vishwavidyalaya.
             <br />
